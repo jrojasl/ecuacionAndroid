@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ejercicio3ecuacion</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="etA">valor A</string>
+    <string name="etB">valor B</string>
+    <string name="etC">valor C</string>
+    <string name="tvResultado"></string>
+    <string name="tvResultado2"></string>
+
+</resources>
